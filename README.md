@@ -1,4 +1,4 @@
-# Observation-Undersampling for Fraud Prediction
+# Observation Under-sampling for Fraud Prediction
 ## A Python implementation of the Observation Under-sampling model proposed by Perols et al. (2017)
 
 ### Background
